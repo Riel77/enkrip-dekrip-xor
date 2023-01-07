@@ -3,5 +3,7 @@
 Untuk memenuhi salah satu tugas mata kuliah Kriptografi pertemuan 14
 
 Nama  : Muhamad Ridwan
+
 NIM   : 312010026
+
 kelas : TI.20.E.1
